@@ -1,5 +1,6 @@
-public enum Alunos {
+package com.br.zup;
 
+public enum Alunos {
     NATALIA,
     ANA,
     IRIS,
